@@ -1,0 +1,240 @@
+* {margin:0;padding:0;}
+h1 {
+color:	#191970;
+text-align:center;
+font-family: "Times New Roman",Times, serif;
+font-style:normal;
+font-size:45px;
+padding: 20px 0 20px 0;
+margin-bottom:10px;
+margin-top:-16px;
+}
+#top {
+color:	#8B008B;
+text-align:left;
+font-family: "Times New Roman",Times, serif;
+font-style:normal;
+font-size:30px;
+margin:20px 15px 20px 20px;
+text-decoration:underline;
+padding:20px 15px 20px 1px;
+}
+h3 {
+color:#0000ff;
+text-align:left;
+font-family: "Times New Roman",Times, serif;
+font-style:italic;
+font-size:30px;
+margin:15px 15px 15px 15px;
+}
+.info {
+color:black;
+font-family: "Times New Roman",Times, serif;
+font-style:normal;
+font-size:20px;
+background-color:powderblue;
+margin: 15px 15px 15px 20px;
+}
+.info1 {
+color:black;
+font-family: "Times New Roman",Times, serif;
+font-style:normal;
+font-size:20px;
+background-color:powderblue;
+margin:15px 15px 15px 20px;
+}
+h4 {
+color:	#800080;
+font-family: "Times New Roman",Times, serif;
+font-style:italic;
+font-size:25px;
+text-decoration:underline;
+}
+#welcome img { 
+display:block;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:1px;
+margin-top:-3px;
+background-color:#00FA9A;
+
+}
+	
+	
+
+
+	
+#his li a {
+color:	#FFFACD;
+font-size:25px;
+font-family:normal;
+font-weight:bold;
+margin:20px 15px 15px 15px;
+
+}
+#his ul {
+	list-style-type:none;
+
+}
+.clear {
+	clear:both;
+	}
+
+#sss {
+color:black;
+font-family: "Times New Roman",Times, serif;
+font-style:italic;
+font-size:20px;
+background-color:#33CCBD;
+}
+div#main {
+	background-image:url('Montreal1.jpg');
+}
+div#hisimg {
+	background-image:url('montrealhis.jpg');
+	background-position:4% 93%;
+	margin:1px 15px 5px 15px;
+	
+}
+div#neigh {
+	background-image:url('neigh2.jpg');
+	background-position:50% 62%;
+	margin:20px 15px 20px 20px;
+}
+div#aa {
+	background-image:url('art.jpg');
+	background-position:50% 62%;
+	margin:20px 15px 20px 20px;
+}
+div#mss {
+	background-image:url('mss.jpg');
+	background-position:269% 62%;
+	margin:20px 15px 20px 20px;
+}
+div#frr {
+	background-image:url('frr.jpg');
+	background-position:269% 62%;
+	margin:20px 15px 20px 20px;
+}
+	
+
+#menu ul{
+text-align:center;
+margin:-5px 40px 10px 40px;
+padding:20px;
+margin-left:40px;
+}
+
+#menu li {
+display:inline; 
+margin-left:-4px;
+
+}
+
+#menu li a {
+color:blue;
+background-color:	#FF5548;
+text-decoration: none;
+font-weight: bold;
+padding: 5px 10px 5px 10px;
+border: 2px solid #FF5548 ;
+font-family: "Times New Roman",Times, serif;
+font-style:normal;
+font-size:25px;
+
+}
+#menu a:hover {
+    color:  #67473B;
+    background-color: #FFF0DA;
+}
+#menu a:active {
+    color:red;
+}
+#sidebar {
+	float:left;
+	height:100%;
+	color:red;
+	background-color:		#00FA9A;
+	font-size:20px;
+	font-weight:bold;
+	margin: 22px 25px 25px 25px;
+	max-width:30%;
+	padding:1em;
+	border: 1px solid #021a40;
+	font-style:italic;
+}
+#sidebar a:hover {
+    color:  #67473B;
+    background-color: #FFF0DA;
+}
+#sidebar a:active {
+    color:red;
+}
+body {
+	background-color:powderblue;
+}
+#montreal logo  {
+    display:block;
+	margin-left:auto;
+	margin-right:auto;
+    padding:5px;
+	margin-bottom: 0px;
+	margin-top:40px;
+    }
+	table {
+    background-color:white;
+    border: 1px solid #021a40;
+	padding:1px;
+	margin:5px 10px 5px 15px;
+}
+#att img {
+	margin-left: 0px;
+    margin-right: 6px;
+    margin-bottom: -24px;
+    margin-top: -1px;
+}
+
+h3.headline2 {
+    font-weight: bold;
+    line-height: 120%;
+    margin: 10px 0;
+    width: 100%;
+	color:#222;
+	font-family: 'Montserrat', sans-serif;
+	margin:10px 10px 10px 20px;
+
+}
+#footericons {
+	display:inline;
+	font-weight: bold;
+	font-size:19px;
+    margin: 10px 0;
+	color:white;
+	font-family: 'Montserrat', sans-serif;
+	margin:10px 10px 10px 20px;
+
+
+
+}
+
+#footer {
+	width:100%;
+	height:auto;
+	color:white;
+	background-color:black;
+	margin:10px 20px 10px 20px;
+	padding:10px;
+}
+
+.food img {
+	margin:10px 20px 10px 20px;
+	border: 1px solid #021a40;
+
+}
+.tt{
+	float:left;
+	margin-left:-4px;
+}
+#iim {
+	margin-left:25px;
+}
